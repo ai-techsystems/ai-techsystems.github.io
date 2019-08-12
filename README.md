@@ -4,7 +4,7 @@
 
 
 ## [dnn Compiler](https://ai-techsystems.github.io/dnnCompiler/)
-Generic LLVM based compiler for deep neural networks targated for custom ai-accelerators like FPGAs, eFPGAs and other embedded devices like ARM-mali GPU with ONNX as front end.
+dnn Compiler is designed to enable and perform deep learning neural networks by focussing on features of custom ai-accelerators like FPGAs, eFPGAs and other embedded devices like risc-V, raspberry-pi and others.
 
 ## [traffic Vision](https://github.com/srohit0/trafficVision)
 Deep neural network detecting cars/buses in a live traffic at a phenomenal 50 frames/sec with HD resolution (1920x1080). 
